@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Explore from "./pages/Explore";
-import Profile from "./pages/Profile";
+import Profile from "./pages";
 import Alert from "./pages/Alert";
 import "@rainbow-me/rainbowkit/styles.css";
 import { configureChains, createClient, WagmiConfig } from "wagmi";
@@ -22,7 +22,7 @@ import { jsonRpcProvider } from "wagmi/providers/jsonRpc";
 const shardeum = {
   id: 8082,
   name: "Shardeum",
-  network: "	Shardeum Sphinx 1.X",
+  network: "Shardeum Sphinx 1.X",
   iconUrl: "https://avatars.githubusercontent.com/u/98940804?s=200&v=4",
   iconBackground: "#fff",
   nativeCurrency: {
