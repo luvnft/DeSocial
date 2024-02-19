@@ -68,7 +68,7 @@ function EditProfile() {
           {
             headers: {
               "Content-Type": "multipart/form-data",
-              pinata_api_key: "52a084fdd2c59360dcb7",
+              pinata_api_key: "743069b9e404cc8d5ad7",
               pinata_secret_api_key:
                 "8ce0d49080a717d547482ac09191e276dd4cdbe49e67200313cd82c9cd6d7cfd",
             },

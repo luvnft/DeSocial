@@ -5,8 +5,8 @@ html {
 }
 
 body {
-  background-color: #effbff;
-  color: #112d4e;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 /* Header */
@@ -19,7 +19,7 @@ body {
   left: 0;
   width: 100%;
   z-index: 2;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   box-shadow: 0 0 2px #3f72af;
 }
 .header .nav {
@@ -60,7 +60,7 @@ body {
   height: 5rem;
   padding: 0.8rem 5%;
   border-radius: 1rem;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   margin-top: 3rem;
   box-shadow: 0 0 2px #3f72af;
 }
@@ -83,7 +83,7 @@ body {
 
 .left-sidebar-button-container {
   border-radius: 1rem;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   box-shadow: 0 0 2px #3f72af;
   margin-top: 1.5rem;
 }
@@ -92,7 +92,7 @@ body {
   width: 100%;
   border-radius: 1rem;
   height: 4rem;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   padding: 1rem 5%;
   font-size: 1rem;
   margin-bottom: 0.25rem;
@@ -110,14 +110,14 @@ body {
   font-size: 1rem;
   margin-bottom: 0.25rem;
   border-radius: 1rem;
-  background-color: #112d4e;
+  background-color: #000000;
   margin-top: 1.5rem;
-  color: #fbfbfb;
+  color: #ffffff;
   cursor: pointer;
 }
 
 .left-sidebar-create-post-button:hover {
-  background-color: #23456c;
+  background-color: #000000;
 }
 
 .left-sidebar-button-icon {
@@ -154,7 +154,7 @@ body {
   height: 5rem;
   padding: 0.8rem 5%;
   border-radius: 1rem;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   box-shadow: 0 0 2px #3f72af;
   justify-content: space-between;
   margin-bottom: 1rem;
@@ -171,7 +171,7 @@ body {
   width: 16%;
   padding-right: 1.2rem;
   padding-top: 0.5rem;
-  color: #112d4e;
+  color: #000000;
 }
 
 .rightsidebar-profile-img {
@@ -202,7 +202,7 @@ body {
 }
 
 .post {
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   width: 100%;
   margin-bottom: 1rem;
   border-radius: 1rem;
@@ -253,7 +253,7 @@ body {
   width: 3rem;
   padding-right: 1.2rem;
   padding-top: 0.75rem;
-  color: #112d4e;
+  color: #000000;
 }
 
 .action-icon {
@@ -352,7 +352,7 @@ body {
   height: 5rem;
   padding: 0.8rem 5%;
   border-radius: 1rem;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   box-shadow: 0 0 2px #3f72af;
   justify-content: space-between;
   margin-bottom: 1rem;
@@ -445,8 +445,8 @@ body {
   text-align: center;
   font-weight: 600;
   cursor: pointer;
-  color: #112d4e;
-  background-color: #fbfbfb;
+  color: #000000;
+  background-color: #ffffff;
   box-shadow: 0 0 2px #3f72af;
   border-radius: 1rem;
 }
@@ -474,7 +474,7 @@ body {
   border-radius: 1rem;
   font-size: 16px;
   resize: none;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
 }
 
 .post-textarea:hover {
@@ -494,8 +494,8 @@ input:focus {
   padding-top: 0.35rem;
   font-size: 1.15rem;
   border-radius: 0.75rem;
-  background-color: #112d4e;
-  color: #fbfbfb;
+  background-color: #000000;
+  color: #ffffff;
   font-weight: 500;
   cursor: pointer;
   letter-spacing: 0.1rem;
@@ -504,7 +504,7 @@ input:focus {
 }
 
 .post-button:hover {
-  background-color: #23456c;
+  background-color: #000000;
 }
 
 .close-button {
@@ -515,7 +515,7 @@ input:focus {
   font-size: 1.15rem;
   border-radius: 0.75rem;
   background-color: #656464a9;
-  color: #fbfbfb;
+  color: #ffffff;
   font-weight: 500;
   cursor: pointer;
   letter-spacing: 0.1rem;
@@ -531,7 +531,7 @@ input:focus {
 .user-profile-info-box {
   width: 100%;
   text-align: center;
-  background-color: #fbfbfb;
+  background-color: #ffffff;
   border-radius: 1rem;
   box-shadow: 0 0 2px #3f72af;
   padding: 5%;
@@ -583,8 +583,8 @@ input:focus {
 .edit-profile-button {
   text-align: center;
   cursor: pointer;
-  background-color: #112d4e;
-  color: #fbfbfb;
+  background-color: #000000;
+  color: #ffffff;
   width: 80%;
   margin: 0 10%;
   height: 2.25rem;
@@ -594,7 +594,7 @@ input:focus {
 }
 
 .edit-profile-button:hover {
-  background-color: #23456c;
+  background-color: #000000;
 }
 
 .image-drop-down {
@@ -610,8 +610,8 @@ input:focus {
 .profile-update-button {
   text-align: center;
   cursor: pointer;
-  background-color: #112d4e;
-  color: #fbfbfb;
+  background-color: #000000;
+  color: #ffffff;
   width: 40%;
   margin: 1rem 30%;
   height: 2.25rem;
@@ -621,7 +621,7 @@ input:focus {
 }
 
 .profile-update-button:hover {
-  background-color: #23456c;
+  background-color: #000000;
 }
 
 .profile-username-input {

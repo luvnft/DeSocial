@@ -17,8 +17,8 @@ function Header() {
             window.location.reload();
           }}
           className="brand-logo"
-          src="https://gateway.pinata.cloud/ipfs/QmNv3ckYu8fzn8roHni3Qpqbz6c14myMMsW6AiXAA6V15x"
-          alt="Brand Logo"
+          src="https://i.imgur.com/8GADpHT.png"
+          alt="IAM LOGO"
           onMouseOver={handleHover}
           onMouseLeave={handleLeave}
           style={{

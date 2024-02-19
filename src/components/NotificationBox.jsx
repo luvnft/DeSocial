@@ -111,7 +111,7 @@ function NotificationBox(props) {
       <img
         src={
           userImage === ""
-            ? "https://gateway.ipfs.io/ipfs/QmYWQodQjfPNymmCKYJNboXotop1zshfLbUer8BsHqiCHQ"
+            ? "https://i.imgur.com/opnx94m.png"
             : userImage
         }
         alt="UserImage"
